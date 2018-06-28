@@ -1,0 +1,1 @@
+{"name":"kia","files":["kia-1.0.0.js","kia-1.0.0.js.sha1","kia-1.0.0-model.js","kia-1.0.0-model.js.sha1","kia-1.0.0.src","kia-1.0.0.src.sha1"],"main":"kia-1.0.0.js","version":"1.0.0","dependencies":{"@org.ceylon-lang\/ceylon.language":"1.3.3"}}
